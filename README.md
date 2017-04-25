@@ -1,3 +1,6 @@
+Add Bitzeny network only. yescrypt hash algorithm has not been added yet.
+
+
 Bitcore
 =======
 
